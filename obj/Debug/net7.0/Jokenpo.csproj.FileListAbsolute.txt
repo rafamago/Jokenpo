@@ -1,0 +1,14 @@
+C:\Projetos\Jokenpo\obj\Debug\net7.0\Jokenpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Jokenpo\obj\Debug\net7.0\Jokenpo.AssemblyInfoInputs.cache
+C:\Projetos\Jokenpo\obj\Debug\net7.0\Jokenpo.AssemblyInfo.cs
+C:\Projetos\Jokenpo\obj\Debug\net7.0\Jokenpo.csproj.CoreCompileInputs.cache
+C:\Projetos\Jokenpo\bin\Debug\net7.0\Jokenpo.exe
+C:\Projetos\Jokenpo\bin\Debug\net7.0\Jokenpo.deps.json
+C:\Projetos\Jokenpo\bin\Debug\net7.0\Jokenpo.runtimeconfig.json
+C:\Projetos\Jokenpo\bin\Debug\net7.0\Jokenpo.dll
+C:\Projetos\Jokenpo\bin\Debug\net7.0\Jokenpo.pdb
+C:\Projetos\Jokenpo\obj\Debug\net7.0\Jokenpo.dll
+C:\Projetos\Jokenpo\obj\Debug\net7.0\refint\Jokenpo.dll
+C:\Projetos\Jokenpo\obj\Debug\net7.0\Jokenpo.pdb
+C:\Projetos\Jokenpo\obj\Debug\net7.0\Jokenpo.genruntimeconfig.cache
+C:\Projetos\Jokenpo\obj\Debug\net7.0\ref\Jokenpo.dll
